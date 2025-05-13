@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
 
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true" width="420" />
@@ -12,7 +12,6 @@
     </td>
   </tr>
 </table>    
-
 
 <br/>
 
