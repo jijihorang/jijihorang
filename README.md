@@ -1,3 +1,6 @@
+<!-- 민트 배경 + 웨이브 스타일 + fadeIn 애니메이션 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
+
 <table align="center">
   <tr>
     <td>
