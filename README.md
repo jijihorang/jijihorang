@@ -43,3 +43,15 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br>
+
+# 💻 **DEV's log**
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://chilbok1129.tistory.com)
+
+<br>
+
+#  📞 **Contact**
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jiho7213@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white)](mailto:chilbok1129@naver.com)
+
