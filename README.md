@@ -1,23 +1,17 @@
 <!-- 민트 배경 + 웨이브 스타일 + fadeIn 애니메이션 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
 
+
 <table align="center">
   <tr>
-    <td style="vertical-align: top; padding: 0;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true&hide_rank=true" 
-        width="400"
-      />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true" width="420" />
     </td>
-    <td style="vertical-align: top; padding: 0; padding-left: 10px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijihorang&layout=compact&theme=vue&cache_seconds=1" 
-        width="400"
-        style="margin-top: 4px;"
-      />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijihorang&layout=compact&theme=vue&cache_seconds=1" width="320" />
     </td>
   </tr>
-</table>
+</table>    
 
 
 <br/>
