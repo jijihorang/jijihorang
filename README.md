@@ -3,14 +3,22 @@
 
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true" width="420" />
+    <td style="vertical-align: top; padding: 0;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true&hide_rank=true" 
+        width="400"
+      />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijihorang&layout=compact&theme=vue&cache_seconds=1" width="320" />
+    <td style="vertical-align: top; padding: 0; padding-left: 10px;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijihorang&layout=compact&theme=vue&cache_seconds=1" 
+        width="400"
+        style="margin-top: 4px;"
+      />
     </td>
   </tr>
 </table>
+
 
 <br/>
 
