@@ -1,6 +1,0 @@
-# 자동 생성되거나 분석 제외하고 싶은 경로 지정
-*.js linguist-vendored
-build/** linguist-vendored
-dist/** linguist-vendored
-node_modules/** linguist-vendored
-public/** linguist-vendored

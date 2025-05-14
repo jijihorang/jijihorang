@@ -1,7 +1,9 @@
 <!-- 민트 배경 + 웨이브 스타일 + fadeIn 애니메이션 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
+<div class="header">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
+</div>
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=jijihorang&show_icons=true&theme=vue&count_private=true" width="420" />
@@ -10,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jijihorang&layout=compact&theme=vue&cache_seconds=1" width="320" />
     </td>
   </tr>
-</table>    
+</table>
 
 <br/>
 
@@ -52,15 +54,18 @@
 <br>
 
 # 💻 **DEV's log**
+
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://chilbok1129.tistory.com)
 
 <br>
 
-#  📞 **Contact**
+# 📞 **Contact**
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jiho7213@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white)](mailto:chilbok1129@naver.com)
 
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=150&section=footer"
-/>
+<div classname="footer">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=150&section=footer"
+  />
+</div>
