@@ -1,7 +1,5 @@
 <!-- 민트 배경 + 웨이브 스타일 + fadeIn 애니메이션 -->
-<div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=200&section=header&text=Welcome%20to%20jijihorang%20Github&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40" />
 
 ### 🔍 About Me
 
@@ -80,9 +78,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jiho7213@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=Naver&logoColor=white)](mailto:chilbok1129@naver.com)
 
-
-<div class="footer">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=150&section=footer"
-  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B2F2BB&height=150&section=footer"/>
